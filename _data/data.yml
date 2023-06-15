@@ -11,7 +11,7 @@ sidebar:
 
     # Profile information
     name: Herry Zhouldy
-    tagline: Systems Engineer
+    tagline: Systems Support Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -96,7 +96,7 @@ qualifications:
 highlights:
     title: Professional Summary
     summary: |
-        Success-oriented Systems Engineer with 10+ years of industry expertise. <br>
+        Success-oriented Systems Support Engineer with 10+ years of industry expertise. <br>
         Skilled in all stages of Agile software development life cycle. <br> 
         Competent in identifying, troubleshooting, and resolving problems related to technical computer hardware and software. <br>
         Proven success in keeping communication during the resolution, and conveying progress updates in the most friendly way possible. <br>
